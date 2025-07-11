@@ -6,7 +6,7 @@ import schedule
 from pybit.unified_trading import HTTP
 import api_decryptor
 
-account = 'backtestAccount2'
+account = 'main'
 session = HTTP(
     testnet=False,
     api_key=api_decryptor.decryption('key', account),
