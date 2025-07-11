@@ -9,12 +9,4 @@ api_decryptor.py
 decryption_key_file_for_accounts.bin
 encrypted_key_secret_for_accounts.bin
 poc.py
-marketdataCollection000.py
-marketdataCollection100.py
-marketdataCollection200.py
-marketdataCollection300.py
-marketdataCollection400.py
-optionExecute000.py
-optionExecute100.py
-optionExecute200.py
-testnetAPI.txt
+
